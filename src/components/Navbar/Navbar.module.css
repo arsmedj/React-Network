@@ -1,0 +1,19 @@
+.item {
+  margin-top: 60px;
+  font-size: 30px;
+}
+.item a {
+  color: white;
+  text-decoration: none;
+}
+.item a.active {
+  color: yellow;
+  font-weight: bold;
+}
+.navbar {
+  grid-area: navbar;
+  background-color: #46629e;
+}
+.nav {
+  list-style-type: none;
+}
