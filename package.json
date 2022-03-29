@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "install": "0.13.0",
-    "pnpm": "4.13.0",
+    "pnpm": "6.15.1",
     "prettier": "2.0.4"
   }
 }
